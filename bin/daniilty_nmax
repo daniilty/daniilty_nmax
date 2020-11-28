@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/daniilty_nmax'
+
+NMAX.read_and_sort(STDIN)
