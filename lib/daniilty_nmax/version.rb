@@ -1,3 +1,3 @@
 module DaniiltyNmax
-  VERSION = "0.1.0"
+  VERSION = "2.2.8"
 end
